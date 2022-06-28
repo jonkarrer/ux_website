@@ -39,3 +39,50 @@
    2. <b>Concepts</b> establish an overall approach for the product, expressed as a central theme or idea.
 
    3. <b>Models</b> describe the product in an abstract way, showing the underlying architecture, structure, flow, or approach. They offer a sense of how the product will work (without actual functionality).
+
+## UX Success
+
+> If the user is having a problem, it is our problem. You've got to start with the customer experience and work
+> back toward the technology - not the other way around.
+> Focus on the user and all else will follow.
+
+1. Key Performance Indicators [Relative Link](https://kristinzibell.medium.com/choose-the-right-ux-metrics-to-show-business-impact-7aafc5f33beb)
+
+   - End user KPIs can be split into two subgroups:
+     behavioral and attitudinal metrics.
+
+   - When choosing behavioural KPIs,
+     you have to think first about the two or the three most important tasks
+     that you want your end users to accomplish, during their interactions.
+
+   - Attitudinal KPIs comprise metrics that enable capturing end users internal states.
+
+2. Customer Experience : CX
+
+   - all the interactions that a customer
+     has with the brand.
+
+   - CX is concerned about the relationship to their customers during
+     the transactional process and UX is concerned about the relationship
+     during the design process.
+
+   - In CX, we refer to the concept of customer journey as a way to regroup
+     all the touchpoints that an individual can experience with an organization
+     or a brand.
+
+3. Employee Experience : EX
+
+   - A broad lens on EX views it as an employee's
+     journey with its employer over time.
+
+   - EX offers a great setting, an opportunity to implement empathy-driven
+     practices to implement and evaluate the key digital interfaces through which employees
+     interact with the various relevant stakeholders.
+
+4. Citizen Experience : CzX
+
+   - Direct, indirect, controllable or not, related to a government service
+     with which a citizen could interact.
+
+   - public organizations aim to attain three fundamental objectives:
+     improving citizen satisfaction, reducing costs and delivering on their promises.
