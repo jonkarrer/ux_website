@@ -37,7 +37,7 @@
    - There are two types of activities in the analyze phase: one that gathers information, the other that collects user data informing the upcoming design phase.
 
    - With these, we will generate personas and a variety of experience map:
-     empathy map, experience map, journey map, service design blueprint
+     empathy map, experience map, journey map, service design blueprint.
 
    - The design phase includes: the vision workshop, Design Thinking, multiple
      brainstorming techniques, co-design and participatory design and even storytelling
