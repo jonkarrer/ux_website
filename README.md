@@ -2,9 +2,6 @@
 
 ## When to use UX
 
-> You can't design an experience.
-> An experience is what a person lives, experiences while doing something. The other side of the mirror. What is behind the eyes.
-
 1. UX Life Cycle.
 
    - We use a four phase model to describe the design process:
