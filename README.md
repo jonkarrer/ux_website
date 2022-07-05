@@ -1,9 +1,8 @@
-# Module Two
+# Module Three
 
-## When to use UX
+## UX Design
 
-> You can't design an experience.
-> An experience is what a person lives, experiences while doing something. The other side of the mirror. What is behind the eyes.
+> "UI is the saddle, the stirrups and the reins. UX is the feeling you get when riding the horse."
 
 1. UX Life Cycle.
 
