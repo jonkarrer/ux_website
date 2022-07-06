@@ -4,75 +4,63 @@
 
 > "UI is the saddle, the stirrups and the reins. UX is the feeling you get when riding the horse."
 
-1. UX Life Cycle.
+1. Hierachy of User Needs
 
-   - We use a four phase model to describe the design process:
-     Analyze, design, prototype, evaluate. these are simply the steps
-     anyone goes through when solving a problem.
+- In order to develop great digital products, services or systems, first, we have to be clear on what high-level needs we aim at supporting; we have to design the experience.
 
-   - Analyse is about researching the user experience
-     and checking on other parameters of the project
-     before looking for solutions.
+  ![UX heirarchy](assets/heirarchy.png)
 
-   - Design is about conceiving new or renewed user experiences.
+2. Innovation
 
-   - Prototype is to develop the first drafts
-     of the upcoming interface, and thus prototyping the experience.
+- UX Design delivers user-centred innovation, meaning that innovation depends on how humans use technology instead of conceiving innovative technology.
 
-   - Evaluate tests every step of the process
-     keeping the team's eye on the user's experience,
-     not just on the interface.
+- UX Design is all about innovation; in the same way, UI design is all about interfaces.
 
-2. The UX Project
+- Why innovate? To solve problems, increase productivity, get a stronger brand image, and ultimately outpace the competition.
 
-   - The tools and techniques that are used throughout the project.
+- If you want to change the end result, you have to change the way you do things.
 
-   - The four phase design process is often confused with another four-part process:
-     the IT project. Discover, Define, Develop, Deploy.
+- Three types of innovations: incremental, radical and disruptive.
 
-   - Going back to the user-centered design process, there are a number
-     of techniques used for each phase.
+- Incremental innovation is a series of small improvements
+  made to a product, service, process, or method.
 
-   - There are two types of activities in the analyze phase: one that gathers information, the other that collects user data informing the upcoming design phase.
+- Radical innovation is a major technological breakthrough that
+  transforms the industry, using existing technology and
+  introducing a variation that is entirely new.
 
-   - With these, we will generate personas and a variety of experience map:
-     empathy map, experience map, journey map, service design blueprint
+- Disruptive innovation has strategy to be able to get into an extremely complex market filled with large players; Only way to be part of the game is to create a new market to eventually disrupt an existing market;
 
-   - The design phase includes: the vision workshop, Design Thinking, multiple
-     brainstorming techniques, co-design and participatory design and even storytelling
-     and storyboarding techniques.
+3. UX Design Cycle
 
-   - The prototyping phase covers UI design, which is actually not a technique
-     but a practice domain onto itself, persuasive design, gamification
-     and once the actual prototyping starts, card sorting, paper prototyping,
-     wire framing and high fidelity prototyping as well.
+> “Everyone designs who devises courses of action aimed at changing existing situations
+> into preferred ones.”
 
-   ![UX Toolbox](assets/The%20Ux%20Project%20Toolbox.png)
+- UX Design aims to conceive strategic solutions to meet users'
+  needs and perspectives and to define the overall experience we want for them.
 
-   ![UX Process](assets/Design%20Process.png)
+![UX Design Cycle](assets/design_cycle.png)
 
-3. UX Case Study
+4. Mental Models, Insights, Empathy
 
-   - [Fitbit](https://uxdesign.cc/fitbit-a-usability-case-study-b23e4c539c3c)
+- A mental model is an internal representation of an external reality.
 
-## How Do You Do UX
+- When we design new products or services, we need to consider how
+  they may satisfy, affect, change, or fit the users’ world.
 
-> UX is a practice that can count on a rich toolbox of methods and techniques. From a layman’s perspective, these methods are just a way to get the results we want. But the fact is that each of these techniques is rooted in a proper scientific approach.
+- If you abruptly disturb users’ mental model, and they don’t
+  understand why, they’ll most likely reject your offering.
 
-1. The scientific approach.
+- Insights are really the golden
+  nuggets in the design process.
 
-   - Theories are tentative explanations and to arrive at a good theory,
-     scientists need to observe and test. Thus, they conduct scientific research.
+- In the context of UX, an insight is a deep understanding of
+  something; a behaviour, a person, a situation.
 
-   - We may want to perform a scientific research to test
-     what is the minimal distance on an interface between two different
-     functionalities for them to be perceived as different.
+- Insights emerge from the analysis of what has been heard or observed.
 
-   - One of the characteristics of the scientific approach
-     is that the test process used needs to be reproducible.
+- Empathy is feeling someone else's emotion.
 
-   - In conclusion, the literature suggests that they are four methods of knowing: tenacity, authority, intuition,science.
-
-   - Science is the only method that corrects itself.
-
-   - Qualitative and Quantitative methods are the industry standard approach. Feelings and numbers.
+- In UX, we use empathy as a creative lever that keeps us centred on our users
+  as represented by the real people that we have met through
+  the analysis phase.
