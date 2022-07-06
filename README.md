@@ -135,7 +135,7 @@
   will likely come to the forefront of the discussion:
   viability, feasibility and desirability of the project.
 
-2. Ux Design Brief
+2. UX Design Brief
 
 - It is a concise, written description
   of one to three pages, which summarizes the overall project plan to ensure
@@ -157,3 +157,24 @@
 
 - In order to be worded in a way that’s inspirational for the design team,
   UX practice prefers formulating it as a “How might we...?” type of question.
+
+## Personas
+
+- A persona is essentially a proxy user, based on use-profile.
+
+- It comes out of what was collected about users through observations,
+  interviews, secondary data, like analytics, industry reports and such.
+
+- Basically, a persona acts as a stand-in for real users
+  between encounters with actual, real-life end-users.
+
+- What technologies do we need to implement
+  to deliver to meet the needs of these personas?
+
+- We need to understand their emotional drivers or, more specifically,
+  we need to understand why and what motivates them to spring to action.
+
+- What specifically do they enjoy, what irritates them,
+  and what are the particulars of their relationship to your product or service.
+
+- Issues are opportunities in disguise.
