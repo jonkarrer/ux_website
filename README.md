@@ -178,3 +178,71 @@
   and what are the particulars of their relationship to your product or service.
 
 - Issues are opportunities in disguise.
+
+![persona of retired lady](assets/persona.png)
+![persona of intense customer](assets/persona_two.png)
+
+## UX Maps
+
+![ux maps](assets/maps.png)
+
+1. Empathy Map
+
+- it can be used to create user profiles, but it is used mostly to structure the data collection and analysis, but it seldom finds its way into client deliverables
+
+- use it to retrieve information about the users that will in turn build empathy towards them and force alignment and understanding about a user type – or persona.
+
+- The empathy map starts being used at the time of the user research before the design process. It is first used as an interview guide to help us organize questions.
+
+- It is built in four quadrants: Thinks&Feels, Does, Sees&Hears and Uses.
+
+![empathy map](assets/empathy-map.png)
+
+2. Experience Maps
+
+- A narrative tool used to visualize the entire end-to-end experience that a persona goes through to reach a goal. We use it to understand and address the users’ needs and pain points.
+
+- The experience map is developed at the end of the analysis phase before starting the design process.
+
+- The experience map is a client deliverable. It is also used as a reference point amongst a team throughout the design cycle.
+
+- Start by gathering a series of user’s objectives and actions into a timeline structure. Then, we elaborate the structure by adding the user's thoughts and emotions to create a narrative. Finally, we condense the narrative into a visualization that we will use to communicate insights to inform the design process.
+
+![exp map](assets/experience-map.png)
+
+3. Customer Journey Map
+
+- A customer journey map is the sum a single persona’s experiences told in one story.
+
+- The customer journey map is developed at the end of the analysis phase before starting the design process.
+
+- The customer journey map is built chronologically and includes, vertically, all the steps of the experience as lived by the user.
+  The horizontal structure of the map is divided into five (5) categories: doing, thinking, feeling, customer experience and opportunities. It can also present technological devices and highlight processes (in the action field).
+
+- Just like in the case of the experience map, we start by gathering a series of user’s objectives and actions into a timeline structure. Then, we elaborate the structure by adding the user's thoughts and emotions to create a narrative. Finally, we condense the narrative into a visualization that we will use to communicate insights to inform the design process.
+
+4. User Scenarios
+
+- The customer journey map and experience map represent and highlight a user's experience with its high and low points, according to what we refer to as their typical scenario.
+
+- However, some scenarios – which we refer to as critical and tragic scenarios - are usually not mapped out because of their specific context. In these cases, we keep them as “written rendition” embedded in the persona sheet
+
+- The critical scenario represents what would possibly make your user disengage with your product, service, or system.
+
+- The tragic scenario refers to the potentially lethal consequences for your service or product. Its objective is to test the limits of a system to make sure it can support any condition.
+
+5. Service Blueprint
+
+- The service blueprint can be used as an overview at any point in the project, but it is often used at the end of the design phase as a predictive plan, describing the service to come. The service blueprint shows all levels of the service at a glance, from user actions, interfaces, supporting processes to servers and other internal systems.
+
+- This map is organized into two general interaction spaces: Frontstage (where the interactions happen) and backstage
+
+- In frontstage will be all that is visible to users: employees & human processes and interfaces with which users interact;
+
+- Behind the visibility line, the backstage holds all employees, software and the physical and digital infrastructure that underpin the service.
+
+- The service blueprint diagrams the relationships between what your customers go through when interacting with your service and different components within your organization supporting this service. We use the service blueprint to understand how an organization contributes to the customer journey.
+
+- The service blueprint is developed at the end of the design phase before starting the prototype process.
+
+![service blueprint](assets/service-blueprint.png)
