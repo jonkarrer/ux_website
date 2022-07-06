@@ -246,3 +246,28 @@
 - The service blueprint is developed at the end of the design phase before starting the prototype process.
 
 ![service blueprint](assets/service-blueprint.png)
+
+## Vison Workshop
+
+1. Marks the end of the analysis phase and the beginning of the design phase.
+
+- A Vision Workshop is an interactive session where all participants from the kick off meeting
+  come together again for two main purposes: To share the results of the analysis phase with all stakeholders
+  and to decide on a clear and inspiring vision to inform the upcoming design phase.
+
+- During the introduction, all participants get acquainted with the research and with each other.
+
+- Deliver and share all the results collected during the Analysis phase
+
+- Creative activity to defining the general solution space
+
+- The key concept here is the act of ‘’projection’’.
+
+- Doing a workshop meets several complementary goals:
+
+  1. Define the solution space (the primary goal);
+  2. Think through creativity (divergent thinking) to ensure that you do not miss out on promising solutions;
+  3. Think slowly about solutions rather than deciding upon receipt of the information gathered during the research and analysis phase;
+  4. Do it by playing and manipulating the new personas and their experience map to get used to them and develop empathy for them;
+  5. Use the expertise of the entire team;
+  6. Consequently, have the entire team carry the decision, which facilitates the adoption of the chosen solution space.
