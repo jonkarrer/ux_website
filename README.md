@@ -74,3 +74,32 @@
    - Science is the only method that corrects itself.
 
    - Qualitative and Quantitative methods are the industry standard approach. Feelings and numbers.
+
+2. Guerrilla Research Protocol
+
+> Smart interviewers create space for stories to emerge.
+> The moment the participant shifts from short answers
+> to stories is THE TIPPING POINT IN AN INTERVIEW
+
+1.  Prepare interview protocol;
+    - Ux design brief
+    - the type of experience & potential scenarios, and the typical user profile
+2.  Prepare interview guide using an Empathy Map;
+    - Using the six focus areas of the empathy map, you will be
+      covering almost all the informa+on you need to construct
+      personas and experience maps.
+    - The purpose of the interview: understand par+cipants
+      Mental Model regarding a given experience.
+3.  Recruit participants;
+    - The most significant difference between standard research and
+      guerrilla research is the speed of recruiting.
+4.  Conduct guerrilla interview;
+5.  Debrief each interview immediately returning to the Empathy Map;
+6.  Once all interviews are done, start the analysis process.
+    - End goal: Iden-fy personas and their respec-ve experience.
+      Subgoal: Iden-fy fresh insights that can lead to innova-ve design
+      solu-ons for these personas.
+7.  Finish the analysis process with a teammate or a friendly colleague.
+    - What’s their core approach to this experience?
+    - What’s unique in their point of view? in their mental model?
+    - What’s leZ unsaid here? What’s missing to properly reflect the people you interviewed who gave rise to this persona?
