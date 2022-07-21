@@ -6,4 +6,4 @@ This material comes from HECMontrealX's [Ed Ex](https://www.edx.org/) courses. T
 
 ## How to use
 
-Each branch is a seperate module starting from week one to the end. Each represent how the courses were broken up, roughly. Select the Module you want and simply analyze the read me. Enjoy!.
+Each branch is a seperate module starting from week one to the end. Each represent how the courses were broken up, roughly. Select the Module you want and simply analyze the read me. Enjoy!
